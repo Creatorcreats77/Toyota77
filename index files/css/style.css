@@ -1,0 +1,52 @@
+.bg-image2 {
+    background-image: url(../img/bg-phone.jfif);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    object-fit:none;
+}
+.bg-image1 {
+    background-image: url(../img/snow2.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+}
+
+.bg-image-2 {
+    background-image: url('../img/cvcv-min.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+}
+.bg-image3 {
+    background-image: url(../img/gfgfggfggg-min.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+}
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .4);
+}
+
+
+
+
+
+.bg-image{
+    background-color: rgb(75, 73, 73);
+}
+@media only screen and (max-width: 800px) {
+    .bg-image {
+        background-image: url(../img/bg-phone.jfif);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: #cccccc;
+        object-fit:none;
+    }
+}
